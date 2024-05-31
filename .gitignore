@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+variante_finala/variante_finala.vcxproj
+variante_finala/variante_finala.vcxproj.filters
+variante_finala.sln
